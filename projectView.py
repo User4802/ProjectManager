@@ -9,3 +9,11 @@ def hello():
 
 if __name__ == "__main__":
   app.run(debug=True)
+
+"""
+class AddProject
+    called when the user use the form and enter the requiered field
+    store the info in DB
+    update the liste on the client side
+Class EditProject
+class DelProject

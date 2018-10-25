@@ -1,11 +1,14 @@
-# projectView
+# ProjectView
 
-# query user for the init method view / add
-    ## admin can bypass by typing admin here
-        ### admin can delete, modify, force add
-# if view display the current DB
-# if add ask the following
-    ## Job Name *
-    ## General Contractor *
-    ## postal code of worksite * (needed to not get duplicate)
-    ## due date (not mandatory)
+Web Base project Management tool
+
+Dependencies
+    - Python 3.7.0
+        - Flask 1.0.2
+
+Typical use  
+    - End User can add a project to be work on
+    - End User con consult added project
+    - End User can edit or delete is added projects
+    
+
