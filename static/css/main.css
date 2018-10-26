@@ -154,7 +154,9 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
-
+.submitBt {
+    color: black;
+}
 
 
 
